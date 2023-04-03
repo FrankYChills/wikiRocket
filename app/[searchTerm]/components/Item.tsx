@@ -41,3 +41,5 @@ const Item = ({ result }: Props) => {
 
   return content;
 };
+
+export default Item;
